@@ -15,10 +15,8 @@
 },
 {
   "id": 1,
-  "name": "Exchange Student",
   "category": "Education",
   "placeName": "4 Months",
-  "country": "Japan",
   "startDate": "2010-06",
   "endDate": "2010-08",
   "description": ["Japanese language classes JLPT N3, JLPT N2",
@@ -26,15 +24,9 @@
   "Economy",
   "British law",
   "Sociology"],
-  "description2": "test description",
-  "skills": [
-    "english",
-    "japanese",
-    "law",
-    "economics",
-    "sociology",
-    "tourism industry"
-  ]
+  "emotional": "Will squeal loudly when they get excited, smile on their own without prompting, and may try to catch a caregiver\\’s attention by making movements",
+  "cognitive": "",
+  "physical": ""
 },
 {
   "id": 2,
