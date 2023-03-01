@@ -6,7 +6,7 @@
   "placeName": "Université de Grenoble (Stendhal)",
   "country": "France",
   "startDate": "2010-09",
-  "endDate": "2014-07",
+  "endDate": "2013-07",
   "description":["Japanese (Kanji, Grammar, History, Language practise)",
     "English (British and American history, Grammar, Language practise)",
    "Economy, Accounting, Law, International law",
@@ -27,7 +27,6 @@
   "startDate": "2012-09",
   "endDate": "2013-07",
   "description": ["Japanese language classes JLPT N3, JLPT N2",
-  "descriptiontwo": "Testing",
   "Tourism & Hospitality",
   "Economy",
   "British law",
@@ -199,30 +198,5 @@
   "skills": [
     "Javascript"
   ]
-},
-{
-  "id": 11,
-  "name": "Test new circ",
-  "category": "Work",
-  "placeName": "Université de Grenoble",
-  "country": "United States",
-  "startDate": "2022-09",
-  "endDate": "2024-07",
-  "description": ["not here",
-  "Java",
-  "Web Dev",
-  "Systems & Networks",
-  "DB (SQL)",
-  "HCI",
-  "AI"],
-  "skills": [
-    "testing",
-    "algorithms",
-    "javascript",
-    "php",
-    ".NET",
-    "SQL"
-  ]
 }
 ]
-
