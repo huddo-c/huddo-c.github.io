@@ -47,9 +47,9 @@ h2 {
 }
 .text-place {
   font-family: 'Thasadith', sans-serif;
-  font-size: 18px;
-  fill: #888;
-  margin-top: 10px;
+  font-size: 20px;
+  fill: #2200ff;
+  margin-top: 5px;
 }
 .text-place.hovered,
 .text-desc.hovered,
