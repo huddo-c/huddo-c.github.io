@@ -1,22 +1,17 @@
 [
   {
   "id": 0,
-  "name": "Bachelor degree in Japanese and English languages",
   "category": "Education",
   "placeName": "2 Months",
-  "country": "France",
   "startDate": "2010-02",
   "endDate": "2010-04",
   "description":["Japanese (Kanji, Grammar, History, Language practise)",
     "English (British and American history, Grammar, Language practise)",
    "Economy, Accounting, Law, International law",
    "Introduction to computer Science (Javascript, Adobe Flash Player, Microsoft Access, CMS)"],
-  "skills": [
-    "english",
-    "japanese",
-    "law",
-    "economics"
-  ]
+  "emotional": "",
+  "cognitive": "",
+  "physical": ""
 },
 {
   "id": 1,
