@@ -198,6 +198,30 @@
   "skills": [
     "Javascript"
   ]
+},
+{
+  "id": 11,
+  "name": "Test new circ",
+  "category": "Work",
+  "placeName": "Université de Grenoble",
+  "country": "United States",
+  "startDate": "2022-09",
+  "endDate": "2024-07",
+  "description": ["not here",
+  "Java",
+  "Web Dev",
+  "Systems & Networks",
+  "DB (SQL)",
+  "HCI",
+  "AI"],
+  "skills": [
+    "testing",
+    "algorithms",
+    "javascript",
+    "php",
+    ".NET",
+    "SQL"
+  ]
 }
 ]
 
