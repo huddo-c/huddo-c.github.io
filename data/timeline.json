@@ -198,8 +198,8 @@
   "skills": [
     "Javascript"
   ]
-}
-    {
+},
+{
   "id": 11,
   "name": "Test change",
   "category": "Work",
@@ -217,5 +217,5 @@
     "law",
     "economics"
   ]
-},
+}
 ]
