@@ -1,0 +1,163 @@
+html {
+  padding: 20px 50px;
+}
+h2 {
+  font-family: 'Thasadith', sans-serif;
+  font-size: 32px;
+}
+.timeline-base {
+  stroke: #444;
+  stroke-width: 0.2;
+}
+.circle-category {
+  transition: fill-opacity 0.2s, r 0.5s;
+  -webkit-transition: fill-opacity 0.2s, r 0.5s;
+}
+.circle-one,
+.circle-one ~ .text-position,
+.details-one .text-position {
+  color: #f49f9f;
+  fill: #f49f9f;
+}
+
+.circle-two,
+.circle-two ~ .text-position,
+.details-two .text-position {
+  color: #f49eaf;
+  fill: #f49eaf;
+}
+
+.circle-three,
+.circle-three ~ .text-position,
+.details-three .text-position {
+  color: #ef9ebf;
+  fill: #ef9ebf;
+}
+
+.circle-four,
+.circle-four ~ .text-position,
+.details-four .text-position {
+  color: #e6a1cf;
+  fill: #e6a1cf;
+}
+
+.circle-five,
+.circle-five ~ .text-position,
+.details-five .text-position {
+  color: #d8a5dd;
+  fill: #d8a5dd;
+}
+
+.circle-six,
+.circle-six ~ .text-position,
+.details-six .text-position {
+  color: #c6aae9;
+  fill: #c6aae9;
+}
+
+.circle-seven,
+.circle-seven ~ .text-position,
+.details-seven .text-position {
+  color: #b0b0f2;
+  fill: #b0b0f2;
+}
+
+.circle-eight,
+.circle-eight ~ .text-position,
+.details-eight .text-position {
+  color: #97b6f7;
+  fill: #97b6f7;
+}
+
+.circle-nine,
+.circle-nine ~ .text-position,
+.details-nine .text-position {
+  color: #7dbcf8;
+  fill: #7dbcf8;
+}
+
+.circle-ten,
+.circle-ten ~ .text-position,
+.details-ten .text-position {
+  color: #62c0f4;
+  fill: #62c0f4;
+}
+
+.circle-eleven,
+.circle-eleven ~ .text-position,
+.details-eleven .text-position {
+  color: #4ac4ec;
+  fill: #4ac4ec;
+}
+
+.circle-twelve,
+.circle-twelve ~ .text-position,
+.details-twelve .text-position {
+  color: #3ac7e0;
+  fill: #3ac7e0;
+}
+
+.circle-hovered {
+  fill-opacity: 0.2;
+}
+.circle-clicked {
+  fill: #fff;
+  transition: fill 1s, r 0.9s;
+  -webkit-transition: fill 1s, r 0.9s;
+}
+.text-date,
+.text-position {
+  transition: opacity 0.7s ease-in-out;
+  -webkit-transition: opacity 0.7s ease-in-out;
+}
+.text-date {
+  fill: #888;
+  font-family: 'Thasadith', sans-serif;
+}
+.details .text-date {
+  margin-right: 15px;
+}
+.text-place {
+  font-family: 'Thasadith', sans-serif;
+  font-size: 35px;
+  fill: #888;
+  margin-top: 10px;
+}
+.text-place.hovered,
+.text-desc.hovered,
+.text-date-end.hovered {
+  transition: opacity 1.5s;
+}
+.text-place,
+.text-desc,
+.text-date-end {
+  transition: opacity 0.1s;
+}
+.position-title {
+  font-size: 25px;
+}
+.text-position,
+.text-desc {
+  font-family: 'Roboto', sans-serif;
+  font-weight: lighter;
+}
+.text-desc {
+  color: #444;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.close-icon {
+  color: #ccc;
+  cursor: pointer;
+  float: right;
+  font-size: 38px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.title {
+  clear: both;
+  display: inline-block;
+}
+.details {
+  transition: opacity 1s ease-in-out;
+}
