@@ -47,7 +47,7 @@
   "id": 4,
   "category": "Work",
   "placeName": "1 Year",
-  "startDate": "2011-09",
+  "startDate": "2011-06",
   "endDate": "2011-12",
   "description": "Most toddlers at age 1...",
   "emotional": "Will begin to show a preference towards a particular toy or caregiver, develop attachments and will cry when the caregiver leaves their side, will wave bye, and start to use inflections in their voice when babbling.",
@@ -55,87 +55,80 @@
   "physical": "Will gain increased motor skills with their hands by performing a pinching motion between their first finger and thumb, walk with support from their environment, are proficient in crawling on the hands and knees, and are able to drink from containers when a caregiver is holding the container."
 },
 {
+  "id": 5,
+  "category": "Work",
+  "placeName": "15 Months",
+  "startDate": "2012-03",
+  "endDate": "2012-06",
+  "description": "Most toddlers at 15 months of age…",
+  "emotional": "Independently shows their caregiver affection, claps when they feel excited, and copies the actions of other children in their vicinity when playing.",
+  "cognitive": "Will points to objects that they show interest in or that they want, use items like cups or phones in the correct manner as shown by a caregiver, and follow simple commands when issued both verbally and with gestures. For example, if a caregiver requests a toy while also holding their hand out.",
+  "physical": "Are able to take a few steps on their own without assistance and can feed themselves specifically with their fingers."
+},
+{
   "id": 6,
-  "name": "Research for version upgrade at Richemont",
   "category": "Work",
   "placeName": "18 Months",
-  "country": "France",
   "startDate": "2012-09",
   "endDate": "2012-12",
-  "description": "Study to evaluate the impact of an application upgrade (SQL)",
-  "skills": [
-    "SQL"
-  ]
+  "description": "Most toddlers at 18 months of age…",
+  "emotional": "May have temper tantrums when frustrated in an effort to express themselves, shows an increased interest in other children, assists caregivers when dressing by extending their arms, and begins to understand the concept of washing hands by placing their hands in front of them.",
+  "cognitive": "Will copy the action chores that are performed by individuals in their vicinity like sweeping motions, hides objects in addition to looking for hidden objects on their own, are able to follow simple commands when issued only verbally, and expands their ability to play with toys by pushing objects like toy cars.",
+  "physical": "Will attempt to use a spoon to feed themselves instead of their hands, will scribble using a writing utensil, are able to climb on top of or down from various pieces of furniture like chairs and couches, and becomes more proficient in walking on their own without assistance."
 },
 {
   "id": 7,
-  "name": "Introduction to Data Science in Python",
   "category": "Education",
   "placeName": "2 Years",
-  "country": "France",
   "startDate": "2013-06",
   "endDate": "2013-12",
-  "description": "Courses : What is Data Science, Open tools for Data Science, Data Science Methodology, Databases and SQL for Data Science",
-  "skills": [
-    "Python",
-    "Jupyter Notebooks",
-    "SQL"
-  ]
+  "description": "Most toddlers at age 2…",
+  "emotional": "Are increasingly independent. They begin to show signs of defiance and may rely on their caregiver for guidance on how to react to new situations. Additionally, they also notice when when others around them are sad or upset and are able to empathize. ",
+  "cognitive": "Begin to try and understand how items like switches, knobs, buttons, and lids are operated. As a result, most are able to perform actions like taking the lid off of a cup while simultaneously holding the cup. They also further develop their communication skills, gaining the ability to say simple phrases and several single words. Additionally, they are able to play with multiple toys at the same time.",
+  "physical": "Will begin favor using one hand over the other and can proficiently use a spoon to eat food. They will also continue to develop their motor skills, gaining the ability to run, kick balls, drag or carries toys while moving, and walk up stairs on their own. "
 },
 {
   "id": 8,
-  "name": "IBM Data Science Courses",
   "category": "Education",
   "placeName": "30 Months",
-  "country": "France",
   "startDate": "2014-06",
   "endDate": "2014-12",
-  "description": "Python for Data Science, Data Analysis with Python, Data Visualization with Python",
-  "skills": [
-    "Python",
-    "Jupyter Notebooks",
-    "Matplotlib",
-    "Numpy",
-    "Seaborn"
-  ]
+  "description": "Most toddlers at 30 months of age…",
+  "emotional": "Begin to develop more social skills by playing near and with other children in addition to understanding the phrase “look at me” when trying to show caregivers their actions.",
+  "cognitive": "Increase their vocabulary to approximately 50 words, display simple problem solving skills like using stools to reach higher places, and respond correctly when prompted with an image or color.",
+  "physical": "Gain the ability to twist objects like lids or doorknobs with their hands, are able to remove simple pieces of clothing like an open jacket, and are capable of jumping with both feet leaving the floor."
 },
 {
   "id": 9,
-  "name": "Managing Data Analysis",
   "category": "Education",
   "placeName": "3 Years",
-  "country": "France",
   "startDate": "2015-06",
   "endDate": "2015-12",
-  "description": "Course about the process of managing data analysis and EDA",
-  "skills": [
-    "Data Analysis"
-  ]
+  "description": "Most toddlers at age 3…",
+  "emotional": "Are able to calm down when not in the vicinity of their parents, usually after 10 minutes or so. They also enjoy singing, dancing, and will join other children to play.",
+  "cognitive": "Can actively avoid touching dangerously hot objects like stoves when warned by a caretaker. Additionally, they also begin to ask who/what/where/why questions and are capable of drawing a circle when taught. They also begin o use pronouns and understands colors.",
+  "physical": "Are able to ride tricycles, use the toilet on their own, put on certain clothes like open jackets, gain increased dexterity with their hands to string items together, and are able to use forks proficiently."
 },
 {
   "id": 10,
-  "name": "Interactivity with JavaScript",
   "category": "Education",
   "placeName": "4 Years",
-  "country": "France",
   "startDate": "2016-08",
   "endDate": "2017-04",
-  "description": "Basics of Javascript language",
-  "skills": [
-    "Javascript"
-  ]
+  "description": "Most preschoolers at 4 years old…",
+  "emotional": "Have difficulty differentiating fantasy from reality. They have powerful imaginations and often impersonate different people or characters when playing. Additionally, they are able to comfort others who show signs of being hurt or sad and actively ask to play with their friends. Additionally, they begin to understand different social environments and will adapt their behavior accordingly. ",
+  "cognitive": "Are able to answer simple questions and have conversations with full sentences. They understand the concept of counting and grasp if certain things are same or different. Additionally, they begin to have a clearer concept of time and are able to listen through whole stories. They may also be able to recall parts of well-known stories that they have been told before.",
+  "physical": "Are capable of catching balls, throw balls overhand, and move forwards and backwards with agility. They are also capable of serving themselves food and water without assistance and are capable of correctly holding writing utensils with their fingers and thumbs as opposed to a fist."
 },
 {
   "id": 11,
-  "name": "Interactivity with JavaScript",
   "category": "Education",
   "placeName": "5 Years",
-  "country": "France",
   "startDate": "2018-04",
   "endDate": "2019-04",
-  "description": "Basics of Javascript language",
-  "skills": [
-    "Javascript"
-  ]
+  "description": "Most preschoolers at 5 years old…",
+  "emotional": "Are capable of following the rules for games and understand to take turns when playing a game. They enjoy cooperative play with their peers and are capable of better distinguishing between fantasy and reality. They learn the concept of sharing in addition to wanting to be like their friends.",
+  "cognitive": "Can say their own name and address when asked, understand how to use everyday items like money and appliances, and are capable of answering simple questions about a story that they were just told. They are able to use the future, past, and present tense in conversation and can typically create made up stories with multiple events. Preschoolers at this age also start learning about letters and should be able to identify and write some letters in their name. Their counting skills also improve, and most at this age can count up to 10 if not higher.",
+  "physical": "Are very agile. They have a better sense of balance and are capable of hopping on one foot, swing, and climb from various object. Typically at this age they can dress themselves without outside assistance, use the bathroom on their own, and can button buttons.  They should be proficient with using a spoon and fork, and in some instances even use a knife."
 }
 ]
