@@ -27,7 +27,7 @@ function drawChart() {
     }
 
     let scaleLine = d3.scaleLinear()
-      .domain([1260835200000, 1555718400000])
+      .domain([1259539200000, 1555718400000])
       .range([getLineVal('min') + 20 , getLineVal('max') - 100]); // OFFSET = 20
 
     let scaleCircle = d3.scaleLinear()
